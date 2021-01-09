@@ -31,7 +31,7 @@ body {
   
   
 <body>
-<p>
+
   <div class="header">
   <h1>My WRAP</h1>
   <p>(Wellness Recovery Action Plan)</p>
@@ -74,6 +74,6 @@ placeholder text
 </p>
 </div>
 
-</p>
+
 </body>
 </html>
