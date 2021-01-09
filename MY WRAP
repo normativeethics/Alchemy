@@ -39,6 +39,7 @@ body {
   </br>
   
   <div class="content">
+    <p>
       <h2>
        My Wellness Toolkit
       </h2>
@@ -70,6 +71,7 @@ placeholder text
 placeholder text
           <h3>Take a Break! And:</h3>
           </br>
+</p>
 </div>
 
 </p>
